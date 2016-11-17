@@ -13,7 +13,7 @@ import java.util.Iterator;
 import java.util.List;
 
 /**
- * @author Alexander Schwartz (msg systems ag) 2016
+ * @author Alexander Schwartz 2016
  */
 public class _40_CrudJbdiSelectPotentiallyLongResult extends _00_AbstractJdbiBaseTest {
 

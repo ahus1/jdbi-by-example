@@ -18,7 +18,7 @@ import java.sql.SQLException;
 import java.util.List;
 
 /**
- * @author Alexander Schwartz (msg systems ag) 2016
+ * @author Alexander Schwartz 2016
  */
 public class _30_CrudJbdiInsertWithSequence extends _00_AbstractJdbiBaseTest {
 

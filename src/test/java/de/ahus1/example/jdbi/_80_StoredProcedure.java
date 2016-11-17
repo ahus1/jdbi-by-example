@@ -14,7 +14,7 @@ import org.skife.jdbi.v2.sqlobject.customizers.SingleValueResult;
 import java.sql.Types;
 
 /**
- * @author Alexander Schwartz (msg systems ag) 2016
+ * @author Alexander Schwartz 2016
  */
 public class _80_StoredProcedure extends _00_AbstractJdbiBaseTest {
 

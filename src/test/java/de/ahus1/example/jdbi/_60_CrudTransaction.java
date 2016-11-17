@@ -14,7 +14,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * @author Alexander Schwartz (msg systems ag) 2016
+ * @author Alexander Schwartz 2016
  */
 public class _60_CrudTransaction extends _00_AbstractJdbiBaseTest {
 

@@ -12,7 +12,7 @@ import org.skife.jdbi.v2.sqlobject.helpers.MapResultAsBean;
 import java.util.List;
 
 /**
- * @author Alexander Schwartz (msg systems ag) 2016
+ * @author Alexander Schwartz 2016
  */
 public class _15_CrudJbdiSelectAllTestWithMapper extends _00_AbstractJdbiBaseTest {
 

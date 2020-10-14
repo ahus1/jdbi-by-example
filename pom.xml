@@ -7,7 +7,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <groupId>de.ahus1.examples.jdbi</groupId>
     <properties>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <assertj.version>3.3.0</assertj.version>
     </properties>
     <dependencies>
@@ -29,9 +29,9 @@
             <version>2.77</version>
         </dependency>
         <dependency>
-            <groupId>com.oracle</groupId>
-            <artifactId>ojdbc6</artifactId>
-            <version>11.2.0.4</version>
+            <groupId>com.oracle.ojdbc</groupId>
+            <artifactId>ojdbc8</artifactId>
+            <version>19.3.0.0</version>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>

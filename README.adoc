@@ -1,4 +1,4 @@
-= Logging and tracing with Context - comparing Log4j and Zipkin
+= Using JDBI by Example
 
 == About
 
